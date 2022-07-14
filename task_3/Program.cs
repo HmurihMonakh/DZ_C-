@@ -20,8 +20,3 @@ else
 //Console.WriteLine(number % 2 );
 //Console.WriteLine(numberA );
 
-//int n = Int32.Parse(Console.ReadLine());
-           // if (n % 2 == 0)
-               // Console.WriteLine($"{n} - Четное");
-           // else
-               // Console.WriteLine("Не четное");
